@@ -5,6 +5,6 @@ starhoshi's homebrew cask repository. See https://github.com/caskroom/homebrew-c
 
 # Usage
 
-    $ brew tap starhoshi/homebrew-starhoshicask
+    $ brew tap starhoshi/starhoshicask
     $ brew cask install firefoxdeveloperedition-ja
 
