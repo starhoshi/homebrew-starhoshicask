@@ -1,4 +1,4 @@
-class Appstorehelper < Cask
+cask :v1 => 'appstorehelper' do
   version '0.65'
   sha256 :no_check
 

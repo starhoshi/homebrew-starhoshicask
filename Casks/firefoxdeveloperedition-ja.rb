@@ -1,4 +1,4 @@
-class FirefoxdevelopereditionJa < Cask
+cask :v1 => 'firefoxdeveloperedition-ja' do
   version :latest
   sha256 :no_check
 
