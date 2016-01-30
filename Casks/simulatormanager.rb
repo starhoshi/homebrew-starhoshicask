@@ -1,4 +1,4 @@
-cask :v1 => 'simulatormanager' do
+cask 'simulatormanager' do
   version '1.2'
   sha256 :no_check
 

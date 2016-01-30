@@ -1,4 +1,4 @@
-cask :v1 => 'firealpaca' do
+cask 'firealpaca' do
   version '1.1.12'
   sha256 :no_check
 

@@ -1,4 +1,4 @@
-cask :v1 => 'kindle-for-mac-jp' do
+cask 'kindle-for-mac-jp' do
   version :latest
   sha256 :no_check
 

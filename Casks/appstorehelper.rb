@@ -1,4 +1,4 @@
-cask :v1 => 'appstorehelper' do
+cask 'appstorehelper' do
   version '0.65'
   sha256 :no_check
 
